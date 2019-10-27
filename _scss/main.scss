@@ -1,0 +1,25 @@
+@import "reveal.js/css/reveal.scss";
+@import "reveal.js/css/theme/night";
+
+
+.me {
+    img {
+        width: 128px;
+    }
+}
+
+.team {
+    > div {
+        display: flex;
+        justify-content: center;
+        margin: 5px;
+        img {
+            border: 0;
+            margin: 0;
+            width: 64px;
+        }
+        div {
+            margin: 0 10px;
+        }
+    }
+}

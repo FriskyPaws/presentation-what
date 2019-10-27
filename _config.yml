@@ -1,0 +1,15 @@
+title: What is FriskyPaws?
+email: steele@friskypaws.net
+description: >
+  Presentation materials
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: FriskyPawsNet
+github_username: FriskyPaws
+
+# Build settings
+markdown: kramdown
+theme: minima
+highlighter: rouge
+markdown_ext: ignoreme
+plugins:
